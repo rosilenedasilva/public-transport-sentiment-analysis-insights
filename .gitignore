@@ -40,3 +40,6 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+git rm -r --cached .ipynb_checkpoints
+git commit -m "Remove checkpoints"
+git push
