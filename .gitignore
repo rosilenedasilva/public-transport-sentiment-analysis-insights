@@ -1,2 +1,42 @@
 .env
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
 
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Large files (optional)
+*.zip
+*.tar
+*.gz
+
+# IDEs
+.vscode/
+.idea/
+
+# Python distribution / packaging
+build/
+dist/
+*.egg-info/
