@@ -4,7 +4,7 @@
 
 How can public transport data and user sentiment be analysed to understand passenger behaviour, system performance, and public perception?
 
-## 🧠 Solution
+## Solution
 
 Combined exploratory data analysis and sentiment analysis techniques to analyse passenger journeys, infrastructure maintenance, and public opinion on transport systems using Python and NLP methods.
 
@@ -17,13 +17,13 @@ Combined exploratory data analysis and sentiment analysis techniques to analyse 
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 This project explores multiple public transport datasets, including passenger journeys, infrastructure maintenance, and survey data. It integrates data analysis and natural language processing (NLP) to uncover insights into both system performance and user perception.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * Python
 * Pandas
@@ -43,7 +43,7 @@ This project explores multiple public transport datasets, including passenger jo
 
 ---
 
-## 🚀 Key Takeaways
+## Key Takeaways
 
 * Passenger demand varies across transport systems and time
 * Infrastructure maintenance plays a key role in system performance
@@ -52,7 +52,7 @@ This project explores multiple public transport datasets, including passenger jo
 
 ---
 
-## 📓 Notebooks
+## Notebooks
 
 👉 [Passenger & Infrastructure Analysis](./transport_passenger_infrastructure_analysis.ipynb)
 👉 [Sentiment Analysis (IPI)](./transport_sentiment_analysis_IPI.ipynb)
@@ -60,7 +60,7 @@ This project explores multiple public transport datasets, including passenger jo
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 * `eu_survey_transport_systems.csv`
 * `passenger_journeys_luas.csv`
